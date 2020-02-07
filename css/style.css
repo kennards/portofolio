@@ -118,6 +118,7 @@ body{
 #creations{
     height: 95vh;
     background-color: rgba(201, 201, 201,0.7);
+    overflow: hidden;
 }
 #creations h1{
     size: 2.5vw;

@@ -124,6 +124,10 @@ body{
     size: 2.5vw;
     text-align: center;
 }
+#creations p{
+    font: 1.5vw;
+    text-align: left;
+}
 /* Footer: Contacts */
 #contacts{
     color: #ffffff;

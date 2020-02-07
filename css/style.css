@@ -69,8 +69,8 @@ body{
 #showcase{
     background: url(../images/desktop.jpg) no-repeat center center/cover;
     text-align: center;
-    margin-top: 12vh;
-    height: 100vh;
+    margin-top: 6.2vw;
+    height: 50vw;
     overflow: hidden;
     position: relative;
 }
@@ -84,7 +84,7 @@ body{
     overflow: hidden;
 }
 #showcase h1{
-    margin-top: 40vh;
+    margin-top: 20vw;
     font-size:2.5vw;
     color: #ffffff;
 }
@@ -98,7 +98,7 @@ body{
     width: 90%;
 }
 #about{
-    height: 95vh;
+    height: 50vw;
     background-color: rgb(201, 201, 201);
     overflow: hidden;
     text-align: left;
@@ -108,7 +108,7 @@ body{
     float: left;
 }
 #about h1{
-    margin-top: 5vh;
+    margin-top: 5vw;
     font-size: 2.5vw;
 }
 #about p{
@@ -116,7 +116,7 @@ body{
 }
 /* Section: Creations */
 #creations{
-    height: 95vh;
+    height: 40vw;
     background-color: rgba(201, 201, 201,0.7);
     overflow: hidden;
 }
@@ -137,5 +137,5 @@ body{
 }
 #contacts p{
 margin-left: 1vw;
-line-height: 4vh;
+line-height: 2.2vw;
 }

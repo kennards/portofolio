@@ -94,8 +94,8 @@ body{
     font-weight: lighter;
 }
 /* Section: About */
-.container #about{
-    width: 90%;
+#about .container{
+    width: 100%;
 }
 #about{
     height: auto;

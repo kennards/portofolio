@@ -94,7 +94,7 @@ body{
     font-weight: lighter;
 }
 /* Section: About */
-#about .container{
+.container #about{
     width: 90%;
 }
 #about{
@@ -143,9 +143,9 @@ body{
 }
 /* Section: Creations */
 #creations{
-    height: auto;
+    height: 50vw;
     background-color: rgba(201, 201, 201,0.7);
-    overflow:hidden;
+    overflow: hidden;
 }
 #creations h1{
     font-size: 2.5vw;
@@ -159,10 +159,9 @@ body{
 #boxes{
     align-items: auto  ;
     margin-top: 5vw;
-    margin-bottom:10vh;
 }
 .box{
-    width: 40vh;
+    width: 20vw;
     height: 20vw;
     background-color: #ffffff;
     float: left;
@@ -170,7 +169,7 @@ body{
     border-radius: 6px;
 }
 .box img{
-    width: 40vh;
+    width: 20vw;
     box-shadow: 0px 2px 4px 2px rgb(95, 95, 95);
     border-radius: 6px;
 }

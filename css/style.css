@@ -55,7 +55,7 @@ body{
  header ul li a{
      text-decoration: none;
      color: white;
-     font-size: calc(10px + (15px - 10px) * ((100vw - 1920px - 1080px)));
+     font-size: calc(10px + (15 - 10) * ((100vw - 300px) / (1600 - 300)));
      transition: 0.3s;
  }
  header ul li a:hover{

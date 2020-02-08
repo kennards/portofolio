@@ -112,7 +112,7 @@ body{
 }
 @media (min-width:300px){
     #about img{
-        width: 600px;
+        width: 400px;
         margin: auto;
         margin-bottom: 2rem;
     }

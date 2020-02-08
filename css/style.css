@@ -103,6 +103,9 @@ body{
     overflow: hidden;
     text-align: left;
 }
+#about .container{
+    width:90%;
+}
 @media (max-width:1600px){
 #about img{
     width: 500px;

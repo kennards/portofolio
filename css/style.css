@@ -155,4 +155,5 @@ body{
 #contacts p{
 margin-left: 1vw;
 line-height: 4.2vh;
+font-size: calc(10px + (15 - 10) * ((100vw - 300px) / (1600 - 300)));
 }

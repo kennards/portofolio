@@ -168,7 +168,8 @@ body{
     float: left;
     margin-left: 6vw;
     border-radius: 6px;
-    margin-bottom: auto;
+    margin-bottom: 40vh;
+    position: absolute;
 }
 .box img{
     width: 40vh;

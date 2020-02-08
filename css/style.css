@@ -116,17 +116,34 @@ body{
 }
 /* Section: Creations */
 #creations{
-    height: 40vw;
+    height: 50vw;
     background-color: rgba(201, 201, 201,0.7);
     overflow: hidden;
 }
 #creations h1{
-    size: 2.5vw;
+    font-size: 2.5vw;
     text-align: center;
 }
 #creations p{
-    font: 1.5vw;
+    font-size: 2vw;
     text-align: left;
+    margin-left: 2vw;
+}
+#boxes{
+    align-items: auto  ;
+    margin-top: 5vw;
+}
+.box{
+    width: 20vw;
+    height: 20vw;
+    background-color: #ffffff;
+    float: left;
+    margin-left: 6vw;
+    border-radius: 24px;
+}
+.box img{
+    width: 20vw;
+    box-shadow: 0px 2px 4px 2px rgb(95, 95, 95);
 }
 /* Footer: Contacts */
 #contacts{

@@ -159,6 +159,7 @@ body{
 #boxes{
     align-items: auto  ;
     margin-top: 5vw;
+    padding:auto;
 }
 .box{
     width: 40vh;

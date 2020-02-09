@@ -143,7 +143,7 @@ body{
 }
 /* Section: Creations */
 #creations{
-    height: 50vw;
+    height: auto;
     background-color: rgba(201, 201, 201,0.7);
     overflow: hidden;
 }
@@ -160,6 +160,9 @@ body{
     align-items: auto  ;
     margin-top: 5vw;
 }
+#boxes2 p{
+    margin-top: 27rem;
+}
 .box{
     width: 20vw;
     height: 20vw;
@@ -170,6 +173,22 @@ body{
 }
 .box img{
     width: 20vw;
+    box-shadow: 0px 2px 4px 2px rgb(95, 95, 95);
+    border-radius: 6px;
+}
+.box2{
+    width: 20vw;
+    height: 20vw;
+    background-color: #ffffff;
+    float: left;
+    margin-left: 6vw;
+    border-radius: 6px;
+    margin-top: 3.5vw;
+    margin-bottom: 3rem;
+    
+}
+.box2 img{
+    width:35vw;
     box-shadow: 0px 2px 4px 2px rgb(95, 95, 95);
     border-radius: 6px;
 }
